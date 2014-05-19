@@ -68,7 +68,7 @@ ul, ol {
 /* titles */
 
 h1 {
-	
+
 }
 
 h2 {
@@ -164,7 +164,7 @@ textarea {
 	-moz-border-radius: 2px;
 	-o-border-radius: 2px;
 	behavior: url(pie/PIE.php);
-	background: url(../images/button-blue-bg.jpg) repeat-x;
+	background: url(./button-blue-bg.jpg) repeat-x;
 }
 
 .button-blue:hover {
@@ -177,7 +177,7 @@ textarea {
 	font-size: 16px;
 	font-weight: bold;
 	line-height: 50px;
-	background: url(../images/button-blue-big-bg.jpg) repeat-x;
+	background: url(./button-blue-big-bg.jpg) repeat-x;
 }
 
 .button-blue.big:hover {
@@ -221,7 +221,7 @@ table td {
 }
 
 span.red {
-	color: #ff0000;	
+	color: #ff0000;
 }
 
 span.grey {
@@ -402,7 +402,7 @@ span.grey {
 }
 
 .right-column .right-block .faq {
-	padding: 0 8px 13px 8px;	
+	padding: 0 8px 13px 8px;
 	margin: 0 0 10px 0;
 	border-bottom: 1px solid #DAE1E8;
 }
@@ -470,7 +470,7 @@ span.grey {
 
 /* end right column */
 
-/* !footer */ 
+/* !footer */
 
 .footer {
 	text-align: center;
